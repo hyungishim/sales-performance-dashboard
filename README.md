@@ -19,3 +19,4 @@ Key Insights
 
 Files
 - Sales Performance Dashboard.xlsx
+- Screenshot.png
